@@ -1,6 +1,4 @@
 
-// let computerChoice = randomIntFromInterval(1,3);
-// let playerChoice = +prompt("What do you want to Throw? \n1 Rock \n2 Paper \n3 Scissors");
 
 let playerScore = 0;
 let computerScore = 0;
